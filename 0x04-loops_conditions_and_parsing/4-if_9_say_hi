@@ -7,6 +7,6 @@ do
 	then
 		echo "Hi"
 	fi
-		echo "Bes School"
+		echo "Best School"
 	=$((x + 1))
 done
